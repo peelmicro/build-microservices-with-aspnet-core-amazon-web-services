@@ -2,7 +2,7 @@
 
 > Source code for the `Build Microservices with .NET Core & Amazon Web Services` Udemy course
 
-## Create the `appsettings.json` document from the `Removeme.appsettings.json` document
+### Create the `appsettings.json` document from the `Removeme.appsettings.json` document
 
 - Copy the `Removeme.appsettings.json` to `appsettings.json` and put your own credentials
 
