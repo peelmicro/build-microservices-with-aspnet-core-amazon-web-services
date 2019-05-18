@@ -1,0 +1,14 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "AWS": {
+    "Region": "Your region",
+    "UserPoolClientId": "Your Pool Client Id",
+    "UserPoolClientSecret": "this is secret",
+    "UserPoolId": "Your User Pool Id"
+  }
+}
